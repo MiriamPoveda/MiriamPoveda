@@ -2,7 +2,7 @@
 
 <p align="center">Mi nombre es <strong>Miriam</strong> <img src="./images/aboutMe/smile.png" alt="smile" width="16"> Estoy encantada de conocerte y, de antemano, ¡gracias por pasarte por aquí! <img src="./images/aboutMe/heart.png" alt="heart" width="20"></p>
 
-<p align="center">Soy <img src="./images/aboutMe/code.png" alt="code" width="16"> <em><strong>desarrolladora Front-End Jr</strong></em> <img src="./images/aboutMe/code.png" alt="code" width="16"> gracias a <a href="https://adalab.es/"><img src="./images/aboutMe/adalab.png" alt="adalab" width="55"><img src="./images/aboutMe/logo.png" alt="logo" width="15"></a> y su curso intensivo de programación web.</p>
+<p align="center">Soy <img src="./images/aboutMe/code.png" alt="code" width="16"> <em><strong>desarrolladora Front-End Jr</strong></em> <img src="./images/aboutMe/code.png" alt="code" width="16"> gracias a <a href="https://adalab.es/" title="Adalab" target="_blank"><img src="./images/aboutMe/adalab.png" alt="adalab" width="55"><img src="./images/aboutMe/logo.png" alt="logo" width="15"></a> y su curso intensivo de programación web.</p>
 
 <p align="center">Actualmente sigo formándome <img src="./images/aboutMe/computer.png" alt="computer" width="20"> para dar lo mejor de mí en este inmenso y apasionante universo tecnológico <img src="./images/aboutMe/galaxy.png" alt="galaxy" width="20"> pero, por el momento, te comparto lo que he aprendido:</p>
 
